@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 /**
  *
- * @author Nisagül
+ * @author Neura1Nerd
  */
-/*public class Project2 {
+public class Project2 {
     public static void Entrance() {
      System.out.println("You have 90 seconds to answer as many questions as possible.");
      System.out.println("You will get 5 seconds bonus if you answer 5 questions in a row.");
@@ -564,7 +564,7 @@ import java.util.Scanner;
          
         
     }//End of main
-}//End of class      */        
+}//End of class              
         
    
     
